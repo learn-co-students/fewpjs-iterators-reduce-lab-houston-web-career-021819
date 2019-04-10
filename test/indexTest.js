@@ -1,4 +1,5 @@
 const expect = chai.expect;
+// const batteryBatches = [4, 5, 3, 4, 4, 6, 5];
 
 describe('reducer', function() {
   describe('batteries', function() {
